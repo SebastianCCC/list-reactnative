@@ -1,3 +1,5 @@
+# project credentials
+.env.local
 # OSX
 #
 .DS_Store
